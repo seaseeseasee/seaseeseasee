@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 นักศึกษา
 --------
 
-ดิฉันกำลังเรียนอยู่ชั้นปีที่ 4 มหาวิทยาลัยแม่โจ้ คณะวิทยาศาตร์ สาขาวิชาวิทยาการคอมพิวเตอร์
 
-* 🌍  I'm based in เชียงใหม่ , ประเทศไทย
+* 🌍  I'm based in นนทบุรี
 * ✉️  You can contact me at [sea.chotpaisalkul@gmail.com](mailto:sea.chotpaisalkul@gmail.com)
 * 🧠  I'm learning next.js
 * 🤝  I'm open to collaborating on Interesting Project
